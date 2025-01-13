@@ -8,7 +8,7 @@
 	"id": "zilko.xdbot",
 	"name": "xdBot",
 	"developer": "Zilko",
-	"description": "Best Free Bot fr",
+	"description": "Best macro recording and rendering bot.",
 	"dependencies": [
 		{
 			"id": "geode.custom-keybinds",
@@ -35,7 +35,7 @@
 		},
 		"frame_offset": {
 			"name": "Frame Offset",
-			"description": "Adds a frame offset when recording or playing macros",
+			"description": "Adds a frame offset when recording or playing macros.",
 			"type": "int", 
 			"default": 0,
 			"min": -8,
@@ -138,10 +138,10 @@
             "resources/GJ_commentSide2_001_White.png",
             "resources/GJ_commentTop2_001_White.png"
         ],
-		"files": [
+	"files": [
             "resources/default_hold_click.mp3",
             "resources/default_release_click.mp3",
-			"resources/default_hold_left.mp3",
+	    "resources/default_hold_left.mp3",
             "resources/default_release_left.mp3",
             "resources/default_hold_right.mp3",
             "resources/default_release_right.mp3"
@@ -149,5 +149,4 @@
     },
 	"links": { "source": "https://github.com/ZiLko/xdBot", "community": "https://discord.gg/w6yvdzVzBd" },
 	"tags": ["gameplay", "utility", "cheat"]
-
 }
